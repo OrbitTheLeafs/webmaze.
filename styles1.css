@@ -1,0 +1,26 @@
+body{
+  background-color: #02ff01;
+}
+#title {
+  color: black;
+  border:5px inset darkgreen;
+  font-family: Georgia;
+  text-align: center;
+}
+p{
+  text-align: center;
+  font-family: Georgia;
+  padding-top: 10px;
+}
+img{
+  width: 8.5px;
+  height: 5px;
+  padding-top: 100px;
+  padding-left: 150px;
+}
+img:hover{
+  padding-top: 20px;
+  padding-left: 30px;
+  transform: scale(10);
+
+}
